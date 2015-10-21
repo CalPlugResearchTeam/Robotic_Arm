@@ -1,4 +1,4 @@
-#include <Servo.h> 
+#include <Servo.h>     // Slightly different version of the sweep. Changes were to frequency and amount of input.
 #include <SoftwareSerial.h>
 
 
@@ -173,6 +173,7 @@ void loop()
   
    
 } 
+
 
 
 

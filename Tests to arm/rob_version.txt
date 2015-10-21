@@ -1,0 +1,2 @@
+Only thing different about this version is that I remove the need to scan over the colon. Nothing much changed.
+--edit was for a week ago.
